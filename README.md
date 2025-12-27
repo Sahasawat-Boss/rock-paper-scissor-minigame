@@ -1,2 +1,2 @@
-# rock-paper-scissor-game
-- Easy Project for fun
+## rock-paper-scissor-game
+Easy Project for fun
